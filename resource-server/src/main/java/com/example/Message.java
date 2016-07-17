@@ -13,4 +13,5 @@ public class Message {
 
     @Temporal(TemporalType.TIMESTAMP)
     public Date createdAt;
+    public String username;
 }
