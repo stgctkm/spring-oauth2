@@ -1,4 +1,5 @@
 rootProject.name='oauth2'
 include 'resource-server'
 include 'authorization-server'
+include 'ui'
 
